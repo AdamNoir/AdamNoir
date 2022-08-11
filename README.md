@@ -57,7 +57,4 @@
 </div>
 <br/>
 <br/>
-<h3 align="center"> 💀 Skills 💀 </h3>
-<hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamNoir&theme=blue-green)
 </div>
