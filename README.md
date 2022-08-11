@@ -31,7 +31,7 @@
 <li>
 <b>Working @:</b> Nyva 🕋
 </li>
-<br><br><br>
+<br><br>
 </div>
 <div>
  
@@ -45,7 +45,7 @@
 <div align="center">
 
 <div> 
-<p >I usually work with 🖥:<br><img src="https://icongr.am/simple/java.svg?size=35&color=currentColor&colored=false)"/> <img src="https://icongr.am/simple/python.svg?size=30&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/mysql.svg?size=40&color=currentColor&colored=false"/> 
+<p >I usually work with 🖥:<br><img src="https://icongr.am/simple/java.svg?size=35&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/python.svg?size=30&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/mysql.svg?size=40&color=currentColor&colored=false"/> 
  <img src="https://icongr.am/simple/javascript.svg?size=35&color=currentColor&colored=false"/> <br>
 
 <p >My favorite IDEs are 🖥:<br><img src="https://icongr.am/simple/intellijidea.svg?size=35&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/visualstudiocode.svg?size=35&color=currentColor&colored=false"/> 
@@ -55,5 +55,9 @@
  <img src="https://icongr.am/devicon/debian-plain.svg?size=35&color=currentColor"/> <img src="https://icongr.am/simple/windows.svg?size=35&color=currentColor&colored=false"/>  <br><br>
 </p>
 </div>
-
+<br/>
+<br/>
+<h3 align="center"> 💀 Skills 💀 </h3>
+<hr/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamNoir&theme=blue-green)
 </div>
