@@ -45,19 +45,16 @@
 <div align="center">
 
 <div> 
-<p >I usually work with 🖥:<br><img src="https://icongr.am/simple/java.svg?size=35&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/python.svg?size=30&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/mysql.svg?size=40&color=currentColor&colored=false"/> 
- <img src="https://icongr.am/simple/javascript.svg?size=35&color=currentColor&colored=false"/> <br>
+<p >I usually work with 🖥:<br><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 
-<p >My favorite IDEs are 🖥:<br><img src="https://icongr.am/simple/intellijidea.svg?size=35&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/visualstudiocode.svg?size=35&color=currentColor&colored=false"/> 
- <img src="https://icongr.am/simple/neovim.svg?size=35&color=currentColor&colored=false"/>  <br>
+<p >My favorite IDEs are 🖥:<br><img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>  <br>
 </p>
-<p >I have developed on these OS 🖥:<br><img src="https://icongr.am/simple/fedora.svg?size=35&color=currentColor&colored=false"/> <img src="https://icongr.am/devicon/ubuntu-plain.svg?size=37&color=currentColor"/> 
- <img src="https://icongr.am/devicon/debian-plain.svg?size=35&color=currentColor"/> <img src="https://icongr.am/simple/windows.svg?size=35&color=currentColor&colored=false"/>  <br><br>
+<p >I have developed on these OS 🖥:<br><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <br>
 </p>
+<br/>
 </div>
 <br/>
 <br/>
-<h3 align="center"> 💀 Skills 💀 </h3>
-<hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamNoir&theme=blue-green)
 </div>
