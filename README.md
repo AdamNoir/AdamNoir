@@ -57,8 +57,6 @@
 </div>
 <br/>
 <br/>
-<<<<<<< HEAD
 </div>
 =======
 </div>
->>>>>>> origin/main
