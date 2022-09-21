@@ -14,7 +14,7 @@
 <li>
  <b>Name:</b> Adam Noir 😈
 <li>
-<b>Age:</b> 25 y.o 🧑‍🦳
+<b>Age:</b> 24 y.o 🧑‍🦳
 </li>
 <li>
 <b>Country:</b> Mexico 🇲🇽
@@ -26,10 +26,10 @@
 <b>Gender:</b> Male 💪
 </li>
 <li>
-<b>Hobbys:</b> Read, write scriptplays ✍
+<b>Hobbys:</b> Read, write Screenplays ✍
 </li>
 <li>
-<b>Working @:</b> Nyva 🕋
+<b>Working:</b> @Nyva 🕋
 </li>
 <br><br>
 </div>
