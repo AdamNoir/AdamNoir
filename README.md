@@ -1,61 +1,78 @@
-<!---->
-<h2 align="center"> Hi there Adam Here 🤘 </h2>
-<br/>
-<div>
-<h3 align="center"> 💀 About Me 💀 </h3>
-<hr/>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" align="right">
-  </div>
-<br/>
 <div align="center">
-<q><i>I use Uwuntu BTW 🐧</i></q> 
-</div>
-<li>
- <b>Name:</b> Adam Noir 😈
-<li>
-<b>Age:</b> 24 y.o 🧑‍🦳
-</li>
-<li>
-<b>Country:</b> Mexico 🇲🇽
-</li>
-<li>
-<b>Loves:</b> Anime, Deathcore, Woody Allen's Movies... And of course Tacos 🌮!
-</li>
-<li>
-<b>Gender:</b> Male 💪
-</li>
-<li>
-<b>Hobbys:</b> Read, write Screenplays ✍
-</li>
-<li>
-<b>Working:</b> @Nyva 🕋
-</li>
-<br><br>
-</div>
-<div>
- 
-<h3 align="center"> 💀 Skills 💀 </h3>
-<hr/>
+  
+  # 👋 Hi there, I'm Adam Noir
+  *The script you wrote's quite boring, Yoichi. Rejected*
+  
+  — Michael Kaiser
 
-  <div align="center">
-<img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" style="width:300px;height:250px;" align="left" >
-  </div>
+</div>
+
+## ✨ About Me
+
+```bash
+$ whoami
+> Adam Noir
+
+$ neofetch
+
+adamnoir@github
+──────────────────────────────
+OS: Arch Linux, macOS
+Bio: Backend Dev turned Fullstack. Amateur screenwriter with the soul of an artist. Dr Pepper fan.
+Status: Reading Blue Lock
+
+Skills:
+  ├─ Langs: Python, Java, JavaScript, TypeScript
+  ├─ Backend: Flask, Apache Camel, NodeJS
+  ├─ DevOps: Docker, Git, Linux
+  └─ Tools: Postman, VSCode, DBeaver, Jira
+
+Learning:
+  ├─ Vue, React, React Native
+  ├─ Diseño UX/UI, UX writing
+```
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <details open>
+        <summary>I'm working on</summary>
+        <br />
+          <ul>
+            <li>
+                <a href=https://github.com/Innei/Shiro target=_blank>Movies RestAPI</a><br>↳ <i>📜 A minimalist crud of movies builded in flask with flask-smorest.</i>
+            </li>
+            <li>
+                <a href=https://github.com/Afilmory/afilmory target=_blank>MediaHub RestAPI</a><br>↳ <i>A RestFull Api that works with the entities of Anime, Movies, Books. Whit Keyclock.</i>
+            </li>
+        </ul>
+      </details>
+      <br />
+    </td>
+
+  </tr>
+</table>
+
+## 🚀 Tech Stack
 
 <div align="center">
-
-<div> 
-<p >I usually work with 🖥:<br><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
-
-<p >My favorite IDEs are 🖥:<br><img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
- <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>  <br>
-</p>
-<p >I have developed on these OS 🖥:<br><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <br>
-</p>
-<br/>
+  <img src="https://skillicons.dev/icons?i=arch,python,html,css,js,ts,java,react,vscode,idea,pycharm,androidstudio,docker&theme=dark&perline=8&" />
 </div>
-<br/>
-<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="mailto:webnoircode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/adamnoir">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add more social links as needed -->
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
