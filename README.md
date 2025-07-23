@@ -17,7 +17,7 @@ $ neofetch
 
 adamnoir@github
 ──────────────────────────────
-OS: Arch Linux, macOS
+OS: MacOS Linux, Windows
 Bio: Backend Dev turned Fullstack. Amateur screenwriter with the soul of an artist. Dr Pepper fan.
 Status: Reading Blue Lock
 
@@ -42,10 +42,10 @@ Learning:
         <br />
           <ul>
             <li>
-                <a href=https://github.com/Innei/Shiro target=_blank>Movies RestAPI</a><br>↳ <i>📜 A minimalist crud of movies builded in flask with flask-smorest.</i>
+                <a href=https://github.com/AdamNoir/flask-crud-movies-api target=_blank>Movies RestAPI</a><br>↳ <i>📜 A minimalist crud of movies builded in flask with flask-smorest.</i>
             </li>
             <li>
-                <a href=https://github.com/Afilmory/afilmory target=_blank>MediaHub RestAPI</a><br>↳ <i>A RestFull Api that works with the entities of Anime, Movies, Books. Whit Keyclock.</i>
+                <a href=https://github.com/AdamNoir/flask-crud-movies-api target=_blank>MediaHub RestAPI</a><br>↳ <i>A RestAPI with Keyclock user authentication.</i>
             </li>
         </ul>
       </details>
@@ -58,7 +58,7 @@ Learning:
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,python,html,css,js,ts,java,react,vscode,idea,pycharm,androidstudio,docker&theme=dark&perline=8&" />
+  <img src="https://skillicons.dev/icons?i=arch,python,html,css,js,ts,java,vscode,idea,pycharm,androidstudio,docker&theme=dark&perline=8&" />
 </div>
 
 ## 🔗 Connect With Me
