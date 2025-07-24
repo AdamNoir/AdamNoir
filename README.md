@@ -58,7 +58,7 @@ Learning:
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,python,html,css,js,ts,java,vscode,idea,pycharm,androidstudio,docker&theme=dark&perline=8&" />
+  <img src="https://skillicons.dev/icons?i=apple,linux,flask,python,html,css,js,ts,java,vscode,idea,pycharm,postgres,docker&theme=dark&perline=8&" />
 </div>
 
 ## 🔗 Connect With Me
