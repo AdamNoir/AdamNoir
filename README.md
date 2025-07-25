@@ -1,9 +1,9 @@
 <div align="center">
   
   # 👋 Hi there, I'm Adam Noir
-  *The script you wrote's quite boring, Yoichi. Rejected*
+  *Talk is cheap. Show me the code.*
   
-  — Michael Kaiser
+  — Linus Torvalds
 
 </div>
 
