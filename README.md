@@ -1,10 +1,19 @@
 <div align="center">
-  
-  # 👋 Hi there, I'm Adam Noir
-  *Talk is cheap. Show me the code.*
-  
-  — Linus Torvalds
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJyaGhubWJlbThwNmo3MnRobmVzZmRyb3dmamNscjE4YXhkOTFvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unqqf6U3sU1uo/giphy.gif" height="100" width="100">
+      </td>
+      <td align="center">
+        <h1>Hi there, I'm Adam Noir</h1>
+        <em>We’re all stories, in the end. Just make it a good one, eh?</em><br>
+        — The Eleventh Doctor
+      </td>
+      <td>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJyaGhubWJlbThwNmo3MnRobmVzZmRyb3dmamNscjE4YXhkOTFvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unqqf6U3sU1uo/giphy.gif" height="100" width="100">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## ✨ About Me
@@ -17,19 +26,19 @@ $ neofetch
 
 adamnoir@github
 ──────────────────────────────
-OS: MacOS Linux, Windows
-Bio: Backend Dev turned Fullstack. Amateur screenwriter with the soul of an artist. Dr Pepper fan.
-Status: Reading Blue Lock
+OS: MacOS, Linux, Windows
+Bio: Aspiring backend developer. Amateur screenwriter. The last Time Lord and current owner of the TARDIS.
+Status: Fighting against the Daleks...
 
 Skills:
   ├─ Langs: Python, Java, JavaScript, TypeScript
-  ├─ Backend: Flask, Apache Camel, NodeJS
+  ├─ Backend: FastAPI, Apache Camel, NestJS, SQL
   ├─ DevOps: Docker, Git, Linux
-  └─ Tools: Postman, VSCode, DBeaver, Jira
+  └─ Tools: Postman, VSCode, DBeaver, Jira, TablePlus
 
 Learning:
-  ├─ Vue, React, React Native
-  ├─ Diseño UX/UI, UX writing
+  ├─ Angular, React, React Native
+  └─ UX/UI, UX writing
 ```
 
 <br/>
@@ -38,14 +47,11 @@ Learning:
   <tr>
     <td valign="top" width="50%">
       <details open>
-        <summary>I'm working on</summary>
+        <summary><strong>I'm working on</strong></summary>
         <br />
           <ul>
             <li>
-                <a href=https://github.com/AdamNoir/flask-crud-movies-api target=_blank>Movies RestAPI</a><br>↳ <i>📜 A minimalist crud of movies builded in flask with flask-smorest.</i>
-            </li>
-            <li>
-                <a href=https://github.com/AdamNoir/flask-crud-movies-api target=_blank>MediaHub RestAPI</a><br>↳ <i>A RestAPI with Keyclock user authentication.</i>
+                <a href=https://github.com/AdamNoir/website.git target=_blank>My Portfolio</a><br>↳ <i>📜 A minimalist website builded in AstroJS.</i>
             </li>
         </ul>
       </details>
