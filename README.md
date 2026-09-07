@@ -31,14 +31,14 @@ Bio: Aspiring backend developer. Amateur screenwriter. The last Time Lord and cu
 Status: Fighting against the Daleks...
 
 Skills:
-  ├─ Langs: Python, Java, JavaScript, TypeScript
-  ├─ Backend: FastAPI, Apache Camel, NestJS, SQL
+  ├─ Langs: Java, JavaScript, TypeScript, Python
+  ├─ Backend: Spingboot, Nodejs, Apache Camel, Nestjs, FastAPI
+  ├─ Fontend: React, React Native, Astrojs
   ├─ DevOps: Docker, Git, Linux
   └─ Tools: Postman, VSCode, DBeaver, Jira, TablePlus
 
 Learning:
-  ├─ Angular, React, React Native
-  └─ UX/UI, UX writing
+  └─ Angular, Kubernets
 ```
 
 <br/>
