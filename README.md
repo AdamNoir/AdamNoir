@@ -1,41 +1,24 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJyaGhubWJlbThwNmo3MnRobmVzZmRyb3dmamNscjE4YXhkOTFvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unqqf6U3sU1uo/giphy.gif" height="100" width="100">
-      </td>
-      <td align="center">
-        <h1>Hi there, I'm Adam Noir</h1>
-        <em>We’re all stories, in the end. Just make it a good one, eh?</em><br>
-        — The Eleventh Doctor
-      </td>
-      <td>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJyaGhubWJlbThwNmo3MnRobmVzZmRyb3dmamNscjE4YXhkOTFvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unqqf6U3sU1uo/giphy.gif" height="100" width="100">
-      </td>
-    </tr>
-  </table>
-</div>
 
-## ✨ About Me
+
 
 ```bash
 $ whoami
 > Adam Noir
 
-$ neofetch
+$ fastfetch
 
 adamnoir@github
 ──────────────────────────────
 OS: MacOS, Linux, Windows
-Bio: Aspiring backend developer. Amateur screenwriter. The last Time Lord and current owner of the TARDIS.
+Bio: Backend developer. Amateur screenwriter. The last Time Lord and current owner of the TARDIS.
 Status: Fighting against the Daleks...
 
 Skills:
-  ├─ Langs: Java, JavaScript, TypeScript, Python
-  ├─ Backend: Spingboot, Nodejs, Apache Camel, Nestjs, FastAPI
-  ├─ Fontend: React, React Native, Astrojs
+  ├─ Langs: Java, TypeScript, Python
+  ├─ Backend: Spingboot, Apache Camel, Nestjs, FastAPI, SQL
+  ├─ Fontend: Astrojs
   ├─ DevOps: Docker, Git, Linux
-  └─ Tools: Postman, VSCode, DBeaver, Jira, TablePlus
+  └─ Tools: Postman, VSCode, DBeaver, Jira, Idea, Pycharm
 
 Learning:
   └─ Angular, Kubernets
@@ -43,40 +26,60 @@ Learning:
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <details open>
-        <summary><strong>I'm working on</strong></summary>
-        <br />
-          <ul>
-            <li>
-                <a href=https://github.com/AdamNoir/website.git target=_blank>My Portfolio</a><br>↳ <i>📜 A minimalist website builded in AstroJS.</i>
-            </li>
+<details open>
+  <summary><strong>I'm working on</strong></summary>
+  <br />
+  <table width="100%">
+    <tr>
+      <td valign="top" width="50%">
+        <ul>
+          <li>
+            <a href="https://github.com/AdamNoir/website.git" target="_blank"><strong>My Portfolio</strong></a><br>
+            ↳ <i>A minimalist website built in AstroJS.</i>
+          </li>
         </ul>
-      </details>
-      <br />
-    </td>
+      </td>
+      <td valign="top" width="50%">
+        <ul>
+          <li>
+            <a href="https://github.com/AdamNoir/blueberry-icecherry_y2k-blog" target="_blank"><strong>Y2K Website</strong></a><br>
+            ↳ <i>Y2k style website for a cosplayer</i>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <ul>
+          <li>
+            <a href="https://github.com/AdamNoir/fime-blog" target="_blank"><strong>FIME Blog</strong></a><br>
+            ↳ <i>Blog created for the creative writing classes I teach.</i>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
 
-  </tr>
-</table>
-
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,flask,python,html,css,js,ts,java,vscode,idea,pycharm,postgres,docker&theme=dark&perline=8&" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,fastapi,postgres,linux,docker,html,css,ts,vscode,idea,pycharm&theme=dark&perline=8&" />
 </div>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="mailto:webnoircode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/adamnoir">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add more social links as needed -->
+  <a href="https://ivangutierrez-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/website-100000?style=for-the-badge&logo=webmoney&logoColor=white" alt="Website" />
+  </a>
+
 </div>
 
 <div align="center">
